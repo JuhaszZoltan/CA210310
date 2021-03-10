@@ -50,6 +50,7 @@
     <None Include="App.config" />
     <None Include="RES\feladatok3.pdf" />
     <None Include="RES\feladatok5.pdf" />
+    <None Include="RES\tombok_prezi.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
